@@ -1,0 +1,7 @@
+{"zaman":"2026-09-02 13:13:30","kullanici":"admin","eylem":"SQL ÇALIŞTIR","ayrinti":"select count(*) as toplam from urunler"}
+{"zaman":"2026-09-02 13:13:41","kullanici":"admin","eylem":"SQL ÇALIŞTIR","ayrinti":"select count(*) as toplam from urunler"}
+{"zaman":"2026-09-02 13:14:03","kullanici":"admin","eylem":"SQL ÇALIŞTIR","ayrinti":"select count(*) as toplam from musteriler"}
+{"zaman":"2026-09-02 13:14:21","kullanici":"admin","eylem":"SQL ÇALIŞTIR","ayrinti":"select count(*) as toplam from anka_migrasyonlar"}
+{"zaman":"2026-09-02 13:19:55","kullanici":"admin","eylem":"ŞEMA KARŞILAŞTIR","ayrinti":"demonet → test"}
+{"zaman":"2026-09-02 13:45:38","kullanici":"admin","eylem":"GİRİŞ","ayrinti":"başarılı giriş"}
+{"zaman":"2026-09-02 13:45:50","kullanici":"admin","eylem":"ŞEMA KARŞILAŞTIR","ayrinti":"demonet → test"}
